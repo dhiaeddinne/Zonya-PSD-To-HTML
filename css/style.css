@@ -1,0 +1,260 @@
+.main-nav ul li{
+    float: left;
+    padding-right: 40px;
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    list-style: none;
+}
+.main-nav ul li a{
+    text-decoration: none;
+    color: #d5d5d5; 
+}
+
+.main-nav ul li.logo{
+    margin-right: 300px;
+}
+
+header{
+    background-color: #2d2d30;
+    padding: 20px;
+}
+
+.banner{
+    text-align: center;
+    background-image: url(../img/nature-forest-moss-leaves.jpg);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.banner a.btn{
+    text-transform: uppercase; 
+}
+
+.banner h2{
+    margin: 0px;
+    padding-top: 180px;
+    padding-bottom: 15px;
+    color: #fff;
+}
+
+.banner p{
+    font-size: 20px;
+    font-family: 'Kaushan Script', cursive;
+    color: #eee;
+}
+
+.banner a.btn{
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 2px solid #fff;
+    margin-top: 15px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.overflow{
+    background: rgba(63, 57, 77, 0.5);
+    overflow: hidden;
+    height: 100%;
+}
+.row{
+    text-align: center;
+}
+
+.pos{
+    margin-bottom: 32px;
+}
+
+.section1 h3.spec{
+    padding-top: 40px;
+}
+.section1,.section2 h3,p{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+p.special{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.section2 p,.section1 p{
+    color: darkgrey;
+    font-size: 20px;
+}
+
+.section1 h4{
+    font-family: 'Lobster', cursive;
+}
+
+.section1{
+    background-color: #f7f7f7;
+}
+
+.section2{
+    text-align: center;
+    padding-top: 60px;
+    background-color: #f1f1f1;
+    padding-bottom: 90px;
+}
+.section2 p.text{
+    font-size: 15px;
+}
+
+.section2 img{
+    margin-bottom: 35px;
+}
+
+a.start{
+    color: #fff;
+    background-color: #47474d;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px solid #47474d;
+}
+
+a.btn.start:hover{
+    background-color: #47474d;
+    color: #fff;
+}
+
+a.view{
+    color: #fff;
+    background-color: #82c6bf;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px solid #82c6bf; 
+}
+
+a.btn.view:hover{
+    background-color: #82c6bf;
+    color: #fff;
+}
+
+div.button{
+    margin-top: 30px;
+}
+
+.images img{
+    padding: 10px;
+}
+
+.section3{
+    background-color: #2d2d30;
+    padding-top: 68px;
+    padding-bottom: 68px;
+}
+
+.section3 h3{
+    color: #dadada;
+    font-size: 20px;
+    text-align: left;
+}
+
+.section3 p{
+    color: #808080;
+    text-align: left;
+    font-size: 16px;
+}
+
+.section3 a.btn{
+    background-color: transparent;
+    padding: 10px 20px;
+    border-radius: 2px solid #808080;
+    margin-top: 15px;
+    color: #808080;
+    font-weight: bold;
+    float: left;
+}
+
+
+.section4{
+    background-color: #f1f1f1;
+}
+.row h5.title{
+    float: right;
+    padding-top: 15px;
+    font-size: 16px;
+}
+
+.row p.desc{
+    float: left;
+    text-align: justify;
+    padding-top: 15px;
+    background-color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    color: #c9c8c8;
+}
+
+.row h5.title p{
+    padding-top: 7px;
+    font-size: 13px;
+    float: right;
+    color: #808080;
+    font-weight: 100;
+}
+
+.row.sec4{
+    margin-top: 30px;
+}
+
+.row h5.title2{
+    float: left;
+    padding-top: 15px;
+    font-size: 16px;
+}
+
+.row h5.desc2{
+    float: right;
+}
+
+.row h5.title2 p{
+    padding-top: 7px;
+    font-size: 13px;
+    float: left;
+    color: #808080;
+    font-weight: 100;
+}
+
+.row p.desc2{
+    float: left;
+    text-align: justify;
+    padding-top: 15px;
+    background-color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    color: #c9c8c8;
+}
+
+.row.sec4 h5{
+    font-weight: bold;
+    color: #454545;
+    font-size: 16px;
+}
+
+.section4 h4{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold; 
+    
+}
+
+.section4 p.top-title{
+    color: #808080;
+    font-size: 16px;
+}
+
+.section4{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
